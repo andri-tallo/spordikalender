@@ -22,9 +22,7 @@ UID:barca-5793366-8634@fotmob.com
 URL:https://www.fotmob.com/match/5793366
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Birmingham City - Barcelona starting in 15 minutes. Noti
- fications can be turned off in calendar settings
-SUMMARY:⚽️ Birmingham City - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Birmingham City - Barcelona  (5-4)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -41,9 +39,7 @@ UID:barca-5997904-8634@fotmob.com
 URL:https://www.fotmob.com/match/5997904
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Nottingham Forest - Barcelona starting in 15 minutes. No
- tifications can be turned off in calendar settings
-SUMMARY:⚽️ Nottingham Forest - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Nottingham Forest - Barcelona  (0-1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -60,9 +56,7 @@ UID:barca-5997905-8634@fotmob.com
 URL:https://www.fotmob.com/match/5997905
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Udinese - Barcelona starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Udinese - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Udinese - Barcelona  (1-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -80,9 +74,7 @@ UID:barca-6000973-8634@fotmob.com
 URL:https://www.fotmob.com/match/6000973
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Basel - Barcelona starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Basel - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Basel - Barcelona  (2-5)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -99,9 +91,7 @@ UID:barca-5995928-8634@fotmob.com
 URL:https://www.fotmob.com/match/5995928
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Al Ahly SC starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Al Ahly SC starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Al Ahly SC  (2-1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -120,9 +110,7 @@ UID:barca-5868024-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868024
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Elche - Barcelona starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Elche - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Elche - Barcelona  (0-5)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -140,9 +128,7 @@ UID:barca-5868016-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868016
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Athletic Club starting in 15 minutes. Notifi
- cations can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Athletic Club starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Athletic Club  (2-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -160,9 +146,7 @@ UID:barca-5868034-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868034
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Rayo Vallecano starting in 15 minutes. Notif
- ications can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Rayo Vallecano starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Rayo Vallecano  (5-2)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -180,9 +164,7 @@ UID:barca-5868049-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868049
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Valencia - Barcelona starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Valencia - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Valencia - Barcelona  (0-5)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -200,9 +182,7 @@ UID:barca-6106264-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106264
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Feyenoord starting in 15 minutes. Notificati
- ons can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Feyenoord starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Feyenoord  (5-1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -221,9 +201,7 @@ UID:barca-5868054-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868054
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Levante - Barcelona starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Levante - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Levante - Barcelona  (2-4)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -241,9 +219,7 @@ UID:barca-5868066-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868066
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Racing Santander starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Racing Santander starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Racing Santander  (7-2)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -262,9 +238,7 @@ UID:barca-5868078-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868078
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Sevilla - Barcelona starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Sevilla - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Sevilla - Barcelona  (1-3)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -282,9 +256,7 @@ UID:barca-5868084-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868084
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Getafe starting in 15 minutes. Notifications
-  can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Getafe starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Getafe  (3-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -302,9 +274,7 @@ UID:barca-6106338-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106338
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Galatasaray - Barcelona starting in 15 minutes. Notifica
- tions can be turned off in calendar settings
-SUMMARY:⚽️ Galatasaray - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Galatasaray - Barcelona  (1-4)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -323,9 +293,7 @@ UID:barca-5868091-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868091
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Real Betis - Barcelona starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Real Betis - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Real Betis - Barcelona  (2-5)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -343,9 +311,7 @@ UID:barca-6106234-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106234
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Paris Saint-Germain - Barcelona starting in 15 minutes. 
- Notifications can be turned off in calendar settings
-SUMMARY:⚽️ Paris Saint-Germain - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Paris Saint-Germain - Barcelona  (4-2)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -363,9 +329,7 @@ UID:barca-5868105-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868105
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Real Madrid starting in 15 minutes. Notifica
- tions can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Real Madrid starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Real Madrid  (1-2)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -383,9 +347,7 @@ UID:barca-5868115-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868115
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Deportivo Alavés starting in 15 minutes. No
- tifications can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Deportivo Alavés starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Deportivo Alavés  (6-1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -403,9 +365,7 @@ UID:barca-6106263-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106263
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Aston Villa starting in 15 minutes. Notifica
- tions can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Aston Villa starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Aston Villa  (3-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -424,9 +384,7 @@ UID:barca-5868121-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868121
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Atlético Madrid - Barcelona starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽️ Atlético Madrid - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Atlético Madrid - Barcelona  (1-2)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -444,9 +402,7 @@ UID:barca-5868133-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868133
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Villarreal starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Villarreal starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Villarreal  (3-2)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -464,9 +420,7 @@ UID:barca-6106421-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106421
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Sabah FK - Barcelona starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Sabah FK - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Sabah FK - Barcelona  (1-4)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -485,9 +439,7 @@ UID:barca-5868143-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868143
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Deportivo A Coruña - Barcelona starting in 15 minutes. 
- Notifications can be turned off in calendar settings
-SUMMARY:⚽️ Deportivo A Coruña - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Deportivo A Coruña - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -505,9 +457,7 @@ UID:barca-5868237-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868237
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Atlético Madrid starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Atlético Madrid starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Atlético Madrid
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -525,9 +475,7 @@ UID:barca-5868154-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868154
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Celta Vigo starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Celta Vigo starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Celta Vigo
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -545,9 +493,7 @@ UID:barca-6106262-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106262
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Manchester City starting in 15 minutes. Noti
- fications can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Manchester City starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Manchester City
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -566,9 +512,7 @@ UID:barca-5868167-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868167
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Málaga - Barcelona starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Málaga - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Málaga - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -586,9 +530,7 @@ UID:barca-5868175-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868175
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Real Sociedad starting in 15 minutes. Notifi
- cations can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Real Sociedad starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Real Sociedad
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -606,9 +548,7 @@ UID:barca-5868183-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868183
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Espanyol - Barcelona starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Espanyol - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Espanyol - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -626,9 +566,7 @@ UID:barca-5868197-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868197
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Osasuna - Barcelona starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Osasuna - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Osasuna - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -646,9 +584,7 @@ UID:barca-5868204-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868204
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Elche starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Elche starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Elche
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -667,9 +603,7 @@ UID:barca-6106278-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106278
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Sporting CP - Barcelona starting in 15 minutes. Notifica
- tions can be turned off in calendar settings
-SUMMARY:⚽️ Sporting CP - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Sporting CP - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -687,9 +621,7 @@ UID:barca-5868211-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868211
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Deportivo Alavés - Barcelona starting in 15 minutes. No
- tifications can be turned off in calendar settings
-SUMMARY:⚽️ Deportivo Alavés - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Deportivo Alavés - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -707,9 +639,7 @@ UID:barca-6106265-8634@fotmob.com
 URL:https://www.fotmob.com/match/6106265
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Como starting in 15 minutes. Notifications c
- an be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Como starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Como
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -727,9 +657,7 @@ UID:barca-5868224-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868224
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Valencia starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Valencia starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Valencia
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -747,9 +675,7 @@ UID:barca-6019525-8634@fotmob.com
 URL:https://www.fotmob.com/match/6019525
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Atlético Madrid starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Atlético Madrid starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Atlético Madrid
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -767,9 +693,7 @@ UID:barca-5868250-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868250
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Villarreal - Barcelona starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Villarreal - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Villarreal - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -787,9 +711,7 @@ UID:barca-5868256-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868256
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Levante starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Levante starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Levante
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -807,9 +729,7 @@ UID:barca-5868261-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868261
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Athletic Club - Barcelona starting in 15 minutes. Notifi
- cations can be turned off in calendar settings
-SUMMARY:⚽️ Athletic Club - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Athletic Club - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -827,9 +747,7 @@ UID:barca-5868276-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868276
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Real Betis starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Real Betis starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Real Betis
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -847,9 +765,7 @@ UID:barca-5868285-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868285
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Deportivo A Coruña starting in 15 minutes. 
- Notifications can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Deportivo A Coruña starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Deportivo A Coruña
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -867,9 +783,7 @@ UID:barca-5868296-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868296
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Rayo Vallecano - Barcelona starting in 15 minutes. Notif
- ications can be turned off in calendar settings
-SUMMARY:⚽️ Rayo Vallecano - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Rayo Vallecano - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -887,9 +801,7 @@ UID:barca-5868305-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868305
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Sevilla starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Sevilla starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Sevilla
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -907,9 +819,7 @@ UID:barca-5868316-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868316
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Racing Santander - Barcelona starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽️ Racing Santander - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Racing Santander - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -927,9 +837,7 @@ UID:barca-5868326-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868326
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Espanyol starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Espanyol starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Espanyol
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -947,9 +855,7 @@ UID:barca-5868332-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868332
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Celta Vigo - Barcelona starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Celta Vigo - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Celta Vigo - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -967,9 +873,7 @@ UID:barca-5868346-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868346
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Osasuna starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Osasuna starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Osasuna
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -987,9 +891,7 @@ UID:barca-5868358-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868358
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Real Madrid - Barcelona starting in 15 minutes. Notifica
- tions can be turned off in calendar settings
-SUMMARY:⚽️ Real Madrid - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Real Madrid - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1007,9 +909,7 @@ UID:barca-5868369-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868369
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Real Sociedad - Barcelona starting in 15 minutes. Notifi
- cations can be turned off in calendar settings
-SUMMARY:⚽️ Real Sociedad - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Real Sociedad - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1027,9 +927,7 @@ UID:barca-5868375-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868375
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Barcelona - Málaga starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Barcelona - Málaga starting in 15 minutes
+DESCRIPTION:⚽️ Barcelona - Málaga
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1047,9 +945,7 @@ UID:barca-5868385-8634@fotmob.com
 URL:https://www.fotmob.com/match/5868385
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽️ Getafe - Barcelona starting in 15 minutes. Notifications
-  can be turned off in calendar settings
-SUMMARY:⚽️ Getafe - Barcelona starting in 15 minutes
+DESCRIPTION:⚽️ Getafe - Barcelona
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1067,9 +963,7 @@ UID:eesti-jalgpall-5210340-8261@fotmob.com
 URL:https://www.fotmob.com/match/5210340
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇰🇪 Kenya - 🇪🇪 Estonia starting in 15 minutes. Notif
- ications can be turned off in calendar settings
-SUMMARY:⚽ 🇰🇪 Kenya - 🇪🇪 Estonia starting in 15 minutes
+DESCRIPTION:⚽ 🇰🇪 Kenya - 🇪🇪 Estonia  (5-6)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1087,9 +981,7 @@ UID:eesti-jalgpall-5279688-8261@fotmob.com
 URL:https://www.fotmob.com/match/5279688
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇷🇼 Rwanda - 🇪🇪 Estonia starting in 15 minutes. Noti
- fications can be turned off in calendar settings
-SUMMARY:⚽ 🇷🇼 Rwanda - 🇪🇪 Estonia starting in 15 minutes
+DESCRIPTION:⚽ 🇷🇼 Rwanda - 🇪🇪 Estonia  (2-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1107,10 +999,7 @@ UID:eesti-jalgpall-5418302-8261@fotmob.com
 URL:https://www.fotmob.com/match/5418302
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇪🇪 Estonia - 🇫🇴 Faroe Islands starting in 15 minute
- s. Notifications can be turned off in calendar settings
-SUMMARY:⚽ 🇪🇪 Estonia - 🇫🇴 Faroe Islands starting in 15 minute
- s
+DESCRIPTION:⚽ 🇪🇪 Estonia - 🇫🇴 Faroe Islands  (1-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1128,9 +1017,7 @@ UID:eesti-jalgpall-5754084-8261@fotmob.com
 URL:https://www.fotmob.com/match/5754084
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇪🇪 Estonia - 🇱🇹 Lithuania starting in 15 minutes. N
- otifications can be turned off in calendar settings
-SUMMARY:⚽ 🇪🇪 Estonia - 🇱🇹 Lithuania starting in 15 minutes
+DESCRIPTION:⚽ 🇪🇪 Estonia - 🇱🇹 Lithuania  (1-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1149,9 +1036,7 @@ UID:eesti-jalgpall-5181950-8261@fotmob.com
 URL:https://www.fotmob.com/match/5181950
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇮🇸 Iceland - 🇪🇪 Estonia starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽ 🇮🇸 Iceland - 🇪🇪 Estonia starting in 15 minutes
+DESCRIPTION:⚽ 🇮🇸 Iceland - 🇪🇪 Estonia  (1-1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1170,9 +1055,7 @@ UID:eesti-jalgpall-5181951-8261@fotmob.com
 URL:https://www.fotmob.com/match/5181951
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇧🇬 Bulgaria - 🇪🇪 Estonia starting in 15 minutes. No
- tifications can be turned off in calendar settings
-SUMMARY:⚽ 🇧🇬 Bulgaria - 🇪🇪 Estonia starting in 15 minutes
+DESCRIPTION:⚽ 🇧🇬 Bulgaria - 🇪🇪 Estonia  (0-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1191,9 +1074,7 @@ UID:eesti-jalgpall-5181953-8261@fotmob.com
 URL:https://www.fotmob.com/match/5181953
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇪🇪 Estonia - 🇱🇺 Luxembourg starting in 15 minutes. 
- Notifications can be turned off in calendar settings
-SUMMARY:⚽ 🇪🇪 Estonia - 🇱🇺 Luxembourg starting in 15 minutes
+DESCRIPTION:⚽ 🇪🇪 Estonia - 🇱🇺 Luxembourg  (1-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1212,9 +1093,7 @@ UID:eesti-jalgpall-5181955-8261@fotmob.com
 URL:https://www.fotmob.com/match/5181955
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇪🇪 Estonia - 🇮🇸 Iceland starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽ 🇪🇪 Estonia - 🇮🇸 Iceland starting in 15 minutes
+DESCRIPTION:⚽ 🇪🇪 Estonia - 🇮🇸 Iceland  (0-0)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1233,9 +1112,7 @@ UID:eesti-jalgpall-5181958-8261@fotmob.com
 URL:https://www.fotmob.com/match/5181958
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇱🇺 Luxembourg - 🇪🇪 Estonia starting in 15 minutes. 
- Notifications can be turned off in calendar settings
-SUMMARY:⚽ 🇱🇺 Luxembourg - 🇪🇪 Estonia starting in 15 minutes
+DESCRIPTION:⚽ 🇱🇺 Luxembourg - 🇪🇪 Estonia  (0-1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1254,9 +1131,7 @@ UID:eesti-jalgpall-5181959-8261@fotmob.com
 URL:https://www.fotmob.com/match/5181959
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇪🇪 Estonia - 🇧🇬 Bulgaria starting in 15 minutes. No
- tifications can be turned off in calendar settings
-SUMMARY:⚽ 🇪🇪 Estonia - 🇧🇬 Bulgaria starting in 15 minutes
+DESCRIPTION:⚽ 🇪🇪 Estonia - 🇧🇬 Bulgaria  (2-1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1275,9 +1150,7 @@ UID:eesti-jalgpall-6696071-8261@fotmob.com
 URL:https://www.fotmob.com/match/6696071
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇪🇪 Estonia - 🇷🇴 Romania starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽ 🇪🇪 Estonia - 🇷🇴 Romania starting in 15 minutes
+DESCRIPTION:⚽ 🇪🇪 Estonia - 🇷🇴 Romania
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1295,33 +1168,41 @@ UID:eesti-jalgpall-6696075-8261@fotmob.com
 URL:https://www.fotmob.com/match/6696075
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🇷🇴 Romania - 🇪🇪 Estonia starting in 15 minutes. Not
- ifications can be turned off in calendar settings
-SUMMARY:⚽ 🇷🇴 Romania - 🇪🇪 Estonia starting in 15 minutes
+DESCRIPTION:⚽ 🇷🇴 Romania - 🇪🇪 Estonia
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-127088@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261127T170000Z
 DTEND:20261127T190000Z
 SUMMARY:🏀 Eesti – Prantsusmaa (MM-valiksari)
 LOCATION:Unibet Arena\, Tallinn
 DESCRIPTION:FIBA: https://www.fiba.basketball/en/games/127088
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏀 Eesti – Prantsusmaa (MM-valiksari)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-127090@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261130T163000Z
 DTEND:20261130T183000Z
 SUMMARY:🏀 Soome – Eesti (MM-valiksari)
 LOCATION:Metro Areena\, Espoo
 DESCRIPTION:FIBA: https://www.fiba.basketball/en/games/127090
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏀 Soome – Eesti (MM-valiksari)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-127094@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:🏀 Eesti – Ungari (MM-valiksari)
@@ -1330,7 +1211,7 @@ DESCRIPTION:Kellaaeg täpsustamisel\nFIBA: https://www.fiba.basketball/en/g
 END:VEVENT
 BEGIN:VEVENT
 UID:fiba-127095@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:🏀 Prantsusmaa – Eesti (MM-valiksari)
@@ -1339,27 +1220,37 @@ DESCRIPTION:Kellaaeg täpsustamisel\nFIBA: https://www.fiba.basketball/en/g
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-97d7e4a2c2014068@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261017T140000Z
 DTEND:20261017T160000Z
 SUMMARY:🏐 Barrus Võru VK – Ezerzeme / DU / Homelike (Balti liiga)
 LOCATION:Võru Spordikeskus
 DESCRIPTION:Tulemus 3:1\nAllikas: https://bvl-web.dataproject.com/Competiti
  onMatches.aspx?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Barrus Võru VK – Ezerzeme / DU / Homelike (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-d2da36b618e3b909@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261024T160000Z
 DTEND:20261024T180000Z
 SUMMARY:🏐 Robežsardze / RSU – Barrus Võru VK (Balti liiga)
 LOCATION:Rimi Olympic center
 DESCRIPTION:Tulemus 3:1\nAllikas: https://bvl-web.dataproject.com/Competiti
  onMatches.aspx?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Robežsardze / RSU – Barrus Võru VK (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-92a9ee15c8f356e3@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261025T150000Z
 DTEND:20261025T170000Z
 SUMMARY:🏐 Elga-Grafaite S-Sportas Šiauliai – Barrus Võru VK (Balti l
@@ -1367,240 +1258,364 @@ SUMMARY:🏐 Elga-Grafaite S-Sportas Šiauliai – Barrus Võru VK (Balti l
 LOCATION:"Dubysa" Sports Centre
 DESCRIPTION:Tulemus 3:2\nAllikas: https://bvl-web.dataproject.com/Competiti
  onMatches.aspx?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Elga-Grafaite S-Sportas Šiauliai – Barrus Võru VK (Bal
+ ti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-ed4871b8c2cb445f@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261104T170000Z
 DTEND:20261104T190000Z
 SUMMARY:🏐 Barrus Võru VK – BIGBANK Tartu (Balti liiga)
 LOCATION:Võru Spordikeskus
 DESCRIPTION:Tulemus 0:3\nAllikas: https://bvl-web.dataproject.com/Competiti
  onMatches.aspx?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Barrus Võru VK – BIGBANK Tartu (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-5deaebfd6fad7c61@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261121T150000Z
 DTEND:20261121T170000Z
 SUMMARY:🏐 Barrus Võru VK – Jēkabpils Lūši (Balti liiga)
 LOCATION:Võru Spordikeskus
 DESCRIPTION:Tulemus 3:0\nAllikas: https://bvl-web.dataproject.com/Competiti
  onMatches.aspx?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Barrus Võru VK – Jēkabpils Lūši (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-2d0ce8ff98e3b5c0@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261127T170000Z
 DTEND:20261127T190000Z
 SUMMARY:🏐 Audentes/Solarstone – Barrus Võru VK (Balti liiga)
 LOCATION:Audentese Sports Hall
 DESCRIPTION:Allikas: https://bvl-web.dataproject.com/CompetitionMatches.asp
  x?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Audentes/Solarstone – Barrus Võru VK (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-6ad25111d2592940@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261211T160000Z
 DTEND:20261211T180000Z
 SUMMARY:🏐 Selver x TalTech – Barrus Võru VK (Balti liiga)
 LOCATION:TalTech Spordihall
 DESCRIPTION:Allikas: https://bvl-web.dataproject.com/CompetitionMatches.asp
  x?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Selver x TalTech – Barrus Võru VK (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-a95632cd416d86e5@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261220T150000Z
 DTEND:20261220T170000Z
 SUMMARY:🏐 Barrus Võru VK – PÄRNU Võrkpalliklubi (Balti liiga)
 LOCATION:Võru Spordikeskus
 DESCRIPTION:Allikas: https://bvl-web.dataproject.com/CompetitionMatches.asp
  x?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Barrus Võru VK – PÄRNU Võrkpalliklubi (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-bvl-d2425185cb76022e@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270206T150000Z
 DTEND:20270206T170000Z
 SUMMARY:🏐 PÄRNU Võrkpalliklubi – Barrus Võru VK (Balti liiga)
 LOCATION:Pärnu Spordihall
 DESCRIPTION:Allikas: https://bvl-web.dataproject.com/CompetitionMatches.asp
  x?ID=29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 PÄRNU Võrkpalliklubi – Barrus Võru VK (Balti liiga)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-aadu-luukas-b45eb72f61902686@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261114T150000Z
 DTEND:20261114T170000Z
 SUMMARY:🏐 Barrus Võru VK – Selver xTalTech (Aadu Luukase karikas)
 LOCATION:Võru Spordihall
 DESCRIPTION:Tulemus 3:1\nAllikas: https://evf-web.dataproject.com/Competiti
  onMatches.aspx?ID=100
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Barrus Võru VK – Selver xTalTech (Aadu Luukase karikas)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-aadu-luukas-3b19e65ba99a169c@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261126T170000Z
 DTEND:20261126T190000Z
 SUMMARY:🏐 Barrus Võru VK – BIGBANK Tartu (Aadu Luukase karikas)
 LOCATION:Võru Spordihall
 DESCRIPTION:Allikas: https://evf-web.dataproject.com/CompetitionMatches.asp
  x?ID=100
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 Barrus Võru VK – BIGBANK Tartu (Aadu Luukase karikas)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dp-aadu-luukas-7a37ee089ac9e67d@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261203T170000Z
 DTEND:20261203T190000Z
 SUMMARY:🏐 BIGBANK Tartu – Barrus Võru VK (Aadu Luukase karikas)
 LOCATION:Tartu Ülikooli SH Ilmar Kullami nimeline peaväljak
 DESCRIPTION:Allikas: https://evf-web.dataproject.com/CompetitionMatches.asp
  x?ID=100
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏐 BIGBANK Tartu – Barrus Võru VK (Aadu Luukase karikas)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-beff4f84568d3c5e@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261126T151500Z
 DTEND:20261126T163000Z
 SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: mehed 20 km individuaal
 LOCATION:Kontiolahti
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Kontiolahti: mehed 20 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-4bc89e0deb7fc884@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261127T151500Z
 DTEND:20261127T163000Z
 SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: naised 15 km individuaal
 LOCATION:Kontiolahti
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Kontiolahti: naised 15 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-60402274c06afa24@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261128T121000Z
 DTEND:20261128T130000Z
 SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: paarissegateade
 LOCATION:Kontiolahti
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Kontiolahti: paarissegateade
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-f9e7d46a7ff744cc@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261128T141500Z
 DTEND:20261128T153000Z
 SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: segateatesõit
 LOCATION:Kontiolahti
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Kontiolahti: segateatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-c2c7bb01257eb71b@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261129T120000Z
 DTEND:20261129T125000Z
 SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: mehed 10 km sprint
 LOCATION:Kontiolahti
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Kontiolahti: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-a9c37d70063b798f@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261129T155500Z
 DTEND:20261129T164500Z
 SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: naised 7\,5 km sprint
 LOCATION:Kontiolahti
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Kontiolahti: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-6392080a1364b23f@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261204T102500Z
 DTEND:20261204T111500Z
 SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: naised 7\,5 km sprint
 LOCATION:Hochfilzen
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Hochfilzen: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-d29aaadd87cd5dff@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261204T131500Z
 DTEND:20261204T140500Z
 SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: mehed 10 km sprint
 LOCATION:Hochfilzen
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Hochfilzen: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-d6efbe729272820b@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261205T111500Z
 DTEND:20261205T120000Z
 SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: naised 10 km jälitussõit
 LOCATION:Hochfilzen
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Hochfilzen: naised 10 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-84414e58297597a3@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261205T133000Z
 DTEND:20261205T141500Z
 SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: mehed 12\,5 km jälitussõit
 LOCATION:Hochfilzen
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Hochfilzen: mehed 12\,5 km jälitussõ
+ it
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-01966466eccce8fa@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261206T103000Z
 DTEND:20261206T115000Z
 SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: naised 4×6 km teatesõit
 LOCATION:Hochfilzen
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Hochfilzen: naised 4×6 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-177ed53152e5115f@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261206T131500Z
 DTEND:20261206T143500Z
 SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: mehed 4×7\,5 km teatesõit
 LOCATION:Hochfilzen
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Hochfilzen: mehed 4×7\,5 km teatesõi
+ t
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-3fe9f4ca88f264ac@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261210T131500Z
 DTEND:20261210T140500Z
 SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 7\,5 km sprint
 LOCATION:Le Grand-Bornand
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 7\,5 km sprin
+ t
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-4f50754cacdac2ea@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261211T131500Z
 DTEND:20261211T140500Z
 SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 10 km sprint
 LOCATION:Le Grand-Bornand
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-7e0804a1960b9fd6@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261212T111500Z
 DTEND:20261212T120000Z
 SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 10 km jälitussõ
@@ -1608,10 +1623,16 @@ SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 10 km jälitussõ
 LOCATION:Le Grand-Bornand
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 10 km jälitu
+ ssõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-4b4898c3a049f9c6@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261212T134500Z
 DTEND:20261212T143000Z
 SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 12\,5 km jälituss
@@ -1619,10 +1640,16 @@ SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 12\,5 km jälituss
 LOCATION:Le Grand-Bornand
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 12\,5 km jäli
+ tussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-a4d50eeaa513a4b1@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261213T111500Z
 DTEND:20261213T120000Z
 SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 12\,5 km ühissta
@@ -1630,535 +1657,812 @@ SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 12\,5 km ühissta
 LOCATION:Le Grand-Bornand
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 12\,5 km ühi
+ sstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-bf04dde252fb0726@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20261213T134500Z
 DTEND:20261213T143000Z
 SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 15 km ühisstart
 LOCATION:Le Grand-Bornand
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 15 km ühissta
+ rt
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-919dd780f4509f51@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270102T102500Z
 DTEND:20270102T111500Z
 SUMMARY:🎯 Laskesuusatamise MK Pokljuka: mehed 10 km sprint
 LOCATION:Pokljuka
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Pokljuka: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-f30683a01484fb6a@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270102T131000Z
 DTEND:20270102T140000Z
 SUMMARY:🎯 Laskesuusatamise MK Pokljuka: naised 7\,5 km sprint
 LOCATION:Pokljuka
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Pokljuka: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-5ecf057180056ba6@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270103T103500Z
 DTEND:20270103T115500Z
 SUMMARY:🎯 Laskesuusatamise MK Pokljuka: mehed 4×7\,5 km teatesõit
 LOCATION:Pokljuka
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Pokljuka: mehed 4×7\,5 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-951c5551a7432392@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270103T131500Z
 DTEND:20270103T143500Z
 SUMMARY:🎯 Laskesuusatamise MK Pokljuka: naised 4×6 km teatesõit
 LOCATION:Pokljuka
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Pokljuka: naised 4×6 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-90dcaa1d9c92c22a@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270106T131500Z
 DTEND:20270106T143500Z
 SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: naised 4×6 km teatesõit
 LOCATION:Ruhpolding
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Ruhpolding: naised 4×6 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-6b31983b8c4d9a04@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270107T131500Z
 DTEND:20270107T143500Z
 SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: mehed 4×7\,5 km teatesõit
 LOCATION:Ruhpolding
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Ruhpolding: mehed 4×7\,5 km teatesõi
+ t
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-007fdc292e5aac0f@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270108T131500Z
 DTEND:20270108T140500Z
 SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: naised 7\,5 km sprint
 LOCATION:Ruhpolding
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Ruhpolding: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-ff70794f630d3d8c@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270109T110000Z
 DTEND:20270109T115000Z
 SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: mehed 10 km sprint
 LOCATION:Ruhpolding
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Ruhpolding: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-bc55c6f51c5e1ec5@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270110T110000Z
 DTEND:20270110T114500Z
 SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: naised 10 km jälitussõit
 LOCATION:Ruhpolding
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Ruhpolding: naised 10 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-34dcbf255faad3c9@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270110T134500Z
 DTEND:20270110T143000Z
 SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: mehed 12\,5 km jälitussõit
 LOCATION:Ruhpolding
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Ruhpolding: mehed 12\,5 km jälitussõ
+ it
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-74ecefb7498229d2@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270114T131500Z
 DTEND:20270114T143000Z
 SUMMARY:🎯 Laskesuusatamise MK Antholz: mehed 20 km individuaal
 LOCATION:Antholz
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Antholz: mehed 20 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-af8687889ed9412a@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270115T131500Z
 DTEND:20270115T143000Z
 SUMMARY:🎯 Laskesuusatamise MK Antholz: naised 15 km individuaal
 LOCATION:Antholz
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Antholz: naised 15 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-5138c73b8564d5d8@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270116T104500Z
 DTEND:20270116T113500Z
 SUMMARY:🎯 Laskesuusatamise MK Antholz: paarissegateade
 LOCATION:Antholz
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Antholz: paarissegateade
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-222f26f93c5a11c7@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270116T133000Z
 DTEND:20270116T144500Z
 SUMMARY:🎯 Laskesuusatamise MK Antholz: segateatesõit
 LOCATION:Antholz
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Antholz: segateatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-d47216ccbf9f3433@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270117T114500Z
 DTEND:20270117T123000Z
 SUMMARY:🎯 Laskesuusatamise MK Antholz: mehed 15 km ühisstart
 LOCATION:Antholz
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Antholz: mehed 15 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-fc0e58936501bcf6@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270117T140000Z
 DTEND:20270117T144500Z
 SUMMARY:🎯 Laskesuusatamise MK Antholz: naised 12\,5 km ühisstart
 LOCATION:Antholz
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Antholz: naised 12\,5 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-dd5f2b7c41572aef@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270121T153000Z
 DTEND:20270121T162000Z
 SUMMARY:🎯 Laskesuusatamise MK Nové Město: naised 7\,5 km sprint
 LOCATION:Nové Město
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Nové Město: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-0c2a50c7da650cb1@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270122T153000Z
 DTEND:20270122T162000Z
 SUMMARY:🎯 Laskesuusatamise MK Nové Město: mehed 10 km sprint
 LOCATION:Nové Město
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Nové Město: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-7d6d132e26dbbab6@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270123T134500Z
 DTEND:20270123T143000Z
 SUMMARY:🎯 Laskesuusatamise MK Nové Město: naised 12\,5 km ühisstart
 LOCATION:Nové Město
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Nové Město: naised 12\,5 km ühissta
+ rt
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-3e635fd368424a2f@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270123T160000Z
 DTEND:20270123T172000Z
 SUMMARY:🎯 Laskesuusatamise MK Nové Město: mehed 4×7\,5 km teatesõit
 LOCATION:Nové Město
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Nové Město: mehed 4×7\,5 km teates
+ õit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-fca000e8a7e4ca49@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270124T133500Z
 DTEND:20270124T145500Z
 SUMMARY:🎯 Laskesuusatamise MK Nové Město: naised 4×6 km teatesõit
 LOCATION:Nové Město
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Nové Město: naised 4×6 km teatesõi
+ t
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-cb1f1b0efd8ca2dd@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270124T161000Z
 DTEND:20270124T165500Z
 SUMMARY:🎯 Laskesuusatamise MK Nové Město: mehed 15 km ühisstart
 LOCATION:Nové Město
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Nové Město: mehed 15 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-fce026a117969797@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270210T151000Z
 DTEND:20270210T162500Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: segateatesõit
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: segateatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-4296d18cec7fe4be@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270212T153000Z
 DTEND:20270212T162000Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 10 km sprint
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-b10b895fb788c462@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270213T160000Z
 DTEND:20270213T165000Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 7\,5 km sprint
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-73e5118d06d96ea7@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270214T150500Z
 DTEND:20270214T155000Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 12\,5 km jälitussõit
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: mehed 12\,5 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-63113ee006aafc49@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270214T173000Z
 DTEND:20270214T181500Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 10 km jälitussõit
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: naised 10 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-ec6606cdc939e8d7@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270216T161000Z
 DTEND:20270216T170000Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: paarissegateade
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: paarissegateade
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-ab9d5b343cee8002@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270217T161000Z
 DTEND:20270217T172500Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 20 km individuaal
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: mehed 20 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-4f0d5e90ec22c731@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270218T161000Z
 DTEND:20270218T172500Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 15 km individuaal
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: naised 15 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-bfada06088577ed1@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270219T163000Z
 DTEND:20270219T175000Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 4×7\,5 km teatesõit
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: mehed 4×7\,5 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-8927225ce63ff71f@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270220T163000Z
 DTEND:20270220T175000Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 4×6 km teatesõit
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: naised 4×6 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-ebae4f4246dc5ca1@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270221T144500Z
 DTEND:20270221T153000Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 15 km ühisstart
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: mehed 15 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-fd88ecec4b2fbb54@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270221T171000Z
 DTEND:20270221T175500Z
 SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 12\,5 km ühisstart
 LOCATION:Otepää
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MM Otepää: naised 12\,5 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-f49a00ba94765f1c@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270304T134500Z
 DTEND:20270304T143500Z
 SUMMARY:🎯 Laskesuusatamise MK Oberhof: mehed 10 km sprint
 LOCATION:Oberhof
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oberhof: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-c43775c0d8ad6444@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270305T131000Z
 DTEND:20270305T140000Z
 SUMMARY:🎯 Laskesuusatamise MK Oberhof: naised 7\,5 km sprint
 LOCATION:Oberhof
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oberhof: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-fe5b5415df13f3a1@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270306T124500Z
 DTEND:20270306T133000Z
 SUMMARY:🎯 Laskesuusatamise MK Oberhof: mehed 12\,5 km jälitussõit
 LOCATION:Oberhof
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oberhof: mehed 12\,5 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-bfe2313935e85d05@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270306T150000Z
 DTEND:20270306T162000Z
 SUMMARY:🎯 Laskesuusatamise MK Oberhof: naised 4×6 km teatesõit
 LOCATION:Oberhof
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oberhof: naised 4×6 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-090f5e77c9b775fc@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270307T114500Z
 DTEND:20270307T130500Z
 SUMMARY:🎯 Laskesuusatamise MK Oberhof: mehed 4×7\,5 km teatesõit
 LOCATION:Oberhof
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oberhof: mehed 4×7\,5 km teatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-98a4254bc47bb200@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270307T145000Z
 DTEND:20270307T153500Z
 SUMMARY:🎯 Laskesuusatamise MK Oberhof: naised 10 km jälitussõit
 LOCATION:Oberhof
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oberhof: naised 10 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-7349e224c8ad2d3a@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270311T151000Z
 DTEND:20270311T162500Z
 SUMMARY:🎯 Laskesuusatamise MK Östersund: naised 15 km individuaal
 LOCATION:Östersund
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Östersund: naised 15 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-f330edc779d6eb3b@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270312T151000Z
 DTEND:20270312T162500Z
 SUMMARY:🎯 Laskesuusatamise MK Östersund: mehed 20 km individuaal
 LOCATION:Östersund
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Östersund: mehed 20 km individuaal
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-9cedb147213e8420@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270313T133000Z
 DTEND:20270313T142000Z
 SUMMARY:🎯 Laskesuusatamise MK Östersund: paarissegateade
 LOCATION:Östersund
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Östersund: paarissegateade
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-3701836a96d3c5ba@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270313T161000Z
 DTEND:20270313T172500Z
 SUMMARY:🎯 Laskesuusatamise MK Östersund: segateatesõit
 LOCATION:Östersund
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Östersund: segateatesõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-00a4eaf23ac88112@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270314T133000Z
 DTEND:20270314T141500Z
 SUMMARY:🎯 Laskesuusatamise MK Östersund: naised 12\,5 km ühisstart
 LOCATION:Östersund
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Östersund: naised 12\,5 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-b08c6ac5bdcf6df3@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270314T161000Z
 DTEND:20270314T165500Z
 SUMMARY:🎯 Laskesuusatamise MK Östersund: mehed 15 km ühisstart
 LOCATION:Östersund
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Östersund: mehed 15 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-b7230f8e9e2a333b@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270318T153000Z
 DTEND:20270318T162000Z
 SUMMARY:🎯 Laskesuusatamise MK Oslo: mehed 10 km sprint
 LOCATION:Oslo
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oslo: mehed 10 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-bb48220ad87a3e48@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270319T153000Z
 DTEND:20270319T162000Z
 SUMMARY:🎯 Laskesuusatamise MK Oslo: naised 7\,5 km sprint
 LOCATION:Oslo
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oslo: naised 7\,5 km sprint
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-19835c77f5f80f26@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270320T134500Z
 DTEND:20270320T143000Z
 SUMMARY:🎯 Laskesuusatamise MK Oslo: mehed 12\,5 km jälitussõit
 LOCATION:Oslo
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oslo: mehed 12\,5 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-989668b6174e68cd@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270320T160000Z
 DTEND:20270320T164500Z
 SUMMARY:🎯 Laskesuusatamise MK Oslo: naised 10 km jälitussõit
 LOCATION:Oslo
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oslo: naised 10 km jälitussõit
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-5a0f82e3541e30ef@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270321T123000Z
 DTEND:20270321T131500Z
 SUMMARY:🎯 Laskesuusatamise MK Oslo: mehed 15 km ühisstart
 LOCATION:Oslo
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oslo: mehed 15 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:laskesuusatamine-af4d03037e85bc3e@spordikalender
-DTSTAMP:20261126T082241Z
+DTSTAMP:20261126T082905Z
 DTSTART:20270321T150000Z
 DTEND:20270321T154500Z
 SUMMARY:🎯 Laskesuusatamise MK Oslo: naised 12\,5 km ühisstart
 LOCATION:Oslo
 DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
  \, snow-online.com\, etusuora.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 Laskesuusatamise MK Oslo: naised 12\,5 km ühisstart
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR
