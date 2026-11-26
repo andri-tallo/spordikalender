@@ -145,7 +145,8 @@ def fiba_events(cfg: dict, stamp: str) -> list[list[str]]:
     return out
 
 
-DP_FIELDS = ("LB_DataOra", "LB_Palasport", "Label2", "Label4", "LB_SetCasa", "LB_SetOspiti")
+DP_FIELDS = ("LB_DataOra", "LB_Palasport", "Label2", "Label4", "Label6", "Label7",
+             "LBL_HomeTeamName", "LBL_GuestTeamName", "LB_SetCasa", "LB_SetOspiti")
 
 
 def dataproject_events(cfg: dict, stamp: str) -> list[list[str]]:
@@ -158,7 +159,8 @@ def dataproject_events(cfg: dict, stamp: str) -> list[list[str]]:
         rows.setdefault(m.group(1), {}).setdefault(m.group(2), html.unescape(m.group(3)).strip())
     out = []
     for key, r in rows.items():
-        home, away = r.get("Label2", ""), r.get("Label4", "")
+        home = r.get("Label6") or r.get("Label2") or r.get("LBL_HomeTeamName", "")
+        away = r.get("Label7") or r.get("Label4") or r.get("LBL_GuestTeamName", "")
         if cfg["team"] not in (home, away):
             continue
         try:
