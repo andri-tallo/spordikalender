@@ -238,6 +238,27 @@ def local_events(path: pathlib.Path, stamp: str) -> list[list[str]]:
     return out
 
 
+ALARM_MIN = 15
+
+
+def add_alarm(block: list[str]) -> list[str]:
+    """Eemaldab voo enda meeldetuletused ja lisab ühtse 15 min meeldetuletuse (mitte terve päeva sündmustele)."""
+    out, skip = [], False
+    for ln in block:
+        if ln == "BEGIN:VALARM":
+            skip = True
+        elif ln == "END:VALARM":
+            skip = False
+            continue
+        if not skip:
+            out.append(ln)
+    if any(ln.startswith("DTSTART") and "VALUE=DATE:" in ln for ln in out):
+        return out
+    summary = next((ln.split(":", 1)[1] for ln in out if ln.startswith("SUMMARY")), "Algab")
+    return out[:-1] + ["BEGIN:VALARM", "ACTION:DISPLAY", f"DESCRIPTION:{summary}",
+                       f"TRIGGER:-PT{ALARM_MIN}M", "END:VALARM", "END:VEVENT"]
+
+
 def main() -> None:
     CACHE.mkdir(exist_ok=True)
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
@@ -265,8 +286,10 @@ def main() -> None:
              "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:Spordikalender",
              "X-WR-TIMEZONE:Europe/Tallinn", "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
              "X-PUBLISHED-TTL:PT6H"]
-    for block in tzs + events:
+    for block in tzs:
         lines += block
+    for block in events:
+        lines += add_alarm(block)
     lines.append("END:VCALENDAR")
 
     body = "\r\n".join(f for ln in lines for f in fold(ln)) + "\r\n"
