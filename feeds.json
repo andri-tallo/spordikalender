@@ -1,6 +1,6 @@
 {
  "feeds": [
-  {"id": "barca", "name": "FC Barcelona (kõik sarjad)", "prefix": "⚽ ", "url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8634.ics"},
+  {"id": "barca", "name": "FC Barcelona (kõik sarjad)", "prefix": "", "url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8634.ics"},
   {"id": "eesti-jalgpall", "name": "Eesti jalgpallikoondis", "prefix": "⚽ ", "url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8261.ics"}
  ]
 }
