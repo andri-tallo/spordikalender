@@ -1,0 +1,496 @@
+{
+ "name": "Laskesuusatamine 2026/27 (MK + MM)",
+ "source": "Korraldajad (Kontiolahti, Otepää), proxcskiing.com, snow-online.com, etusuora.com",
+ "events": [
+  {
+   "start": "2026-11-26 17:15",
+   "tz": "Europe/Helsinki",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Kontiolahti: mehed 20 km individuaal",
+   "location": "Kontiolahti"
+  },
+  {
+   "start": "2026-11-27 17:15",
+   "tz": "Europe/Helsinki",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Kontiolahti: naised 15 km individuaal",
+   "location": "Kontiolahti"
+  },
+  {
+   "start": "2026-11-28 14:10",
+   "tz": "Europe/Helsinki",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Kontiolahti: paarissegateade",
+   "location": "Kontiolahti"
+  },
+  {
+   "start": "2026-11-28 16:15",
+   "tz": "Europe/Helsinki",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Kontiolahti: segateatesõit",
+   "location": "Kontiolahti"
+  },
+  {
+   "start": "2026-11-29 14:00",
+   "tz": "Europe/Helsinki",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Kontiolahti: mehed 10 km sprint",
+   "location": "Kontiolahti"
+  },
+  {
+   "start": "2026-11-29 17:55",
+   "tz": "Europe/Helsinki",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Kontiolahti: naised 7,5 km sprint",
+   "location": "Kontiolahti"
+  },
+  {
+   "start": "2026-12-04 11:25",
+   "tz": "Europe/Vienna",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Hochfilzen: naised 7,5 km sprint",
+   "location": "Hochfilzen"
+  },
+  {
+   "start": "2026-12-04 14:15",
+   "tz": "Europe/Vienna",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Hochfilzen: mehed 10 km sprint",
+   "location": "Hochfilzen"
+  },
+  {
+   "start": "2026-12-05 12:15",
+   "tz": "Europe/Vienna",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Hochfilzen: naised 10 km jälitussõit",
+   "location": "Hochfilzen"
+  },
+  {
+   "start": "2026-12-05 14:30",
+   "tz": "Europe/Vienna",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Hochfilzen: mehed 12,5 km jälitussõit",
+   "location": "Hochfilzen"
+  },
+  {
+   "start": "2026-12-06 11:30",
+   "tz": "Europe/Vienna",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Hochfilzen: naised 4×6 km teatesõit",
+   "location": "Hochfilzen"
+  },
+  {
+   "start": "2026-12-06 14:15",
+   "tz": "Europe/Vienna",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Hochfilzen: mehed 4×7,5 km teatesõit",
+   "location": "Hochfilzen"
+  },
+  {
+   "start": "2026-12-10 14:15",
+   "tz": "Europe/Paris",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Le Grand-Bornand: naised 7,5 km sprint",
+   "location": "Le Grand-Bornand"
+  },
+  {
+   "start": "2026-12-11 14:15",
+   "tz": "Europe/Paris",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 10 km sprint",
+   "location": "Le Grand-Bornand"
+  },
+  {
+   "start": "2026-12-12 12:15",
+   "tz": "Europe/Paris",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Le Grand-Bornand: naised 10 km jälitussõit",
+   "location": "Le Grand-Bornand"
+  },
+  {
+   "start": "2026-12-12 14:45",
+   "tz": "Europe/Paris",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 12,5 km jälitussõit",
+   "location": "Le Grand-Bornand"
+  },
+  {
+   "start": "2026-12-13 12:15",
+   "tz": "Europe/Paris",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Le Grand-Bornand: naised 12,5 km ühisstart",
+   "location": "Le Grand-Bornand"
+  },
+  {
+   "start": "2026-12-13 14:45",
+   "tz": "Europe/Paris",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 15 km ühisstart",
+   "location": "Le Grand-Bornand"
+  },
+  {
+   "start": "2027-01-02 11:25",
+   "tz": "Europe/Ljubljana",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Pokljuka: mehed 10 km sprint",
+   "location": "Pokljuka"
+  },
+  {
+   "start": "2027-01-02 14:10",
+   "tz": "Europe/Ljubljana",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Pokljuka: naised 7,5 km sprint",
+   "location": "Pokljuka"
+  },
+  {
+   "start": "2027-01-03 11:35",
+   "tz": "Europe/Ljubljana",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Pokljuka: mehed 4×7,5 km teatesõit",
+   "location": "Pokljuka"
+  },
+  {
+   "start": "2027-01-03 14:15",
+   "tz": "Europe/Ljubljana",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Pokljuka: naised 4×6 km teatesõit",
+   "location": "Pokljuka"
+  },
+  {
+   "start": "2027-01-06 14:15",
+   "tz": "Europe/Berlin",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Ruhpolding: naised 4×6 km teatesõit",
+   "location": "Ruhpolding"
+  },
+  {
+   "start": "2027-01-07 14:15",
+   "tz": "Europe/Berlin",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Ruhpolding: mehed 4×7,5 km teatesõit",
+   "location": "Ruhpolding"
+  },
+  {
+   "start": "2027-01-08 14:15",
+   "tz": "Europe/Berlin",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Ruhpolding: naised 7,5 km sprint",
+   "location": "Ruhpolding"
+  },
+  {
+   "start": "2027-01-09 12:00",
+   "tz": "Europe/Berlin",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Ruhpolding: mehed 10 km sprint",
+   "location": "Ruhpolding"
+  },
+  {
+   "start": "2027-01-10 12:00",
+   "tz": "Europe/Berlin",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Ruhpolding: naised 10 km jälitussõit",
+   "location": "Ruhpolding"
+  },
+  {
+   "start": "2027-01-10 14:45",
+   "tz": "Europe/Berlin",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Ruhpolding: mehed 12,5 km jälitussõit",
+   "location": "Ruhpolding"
+  },
+  {
+   "start": "2027-01-14 14:15",
+   "tz": "Europe/Rome",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Antholz: mehed 20 km individuaal",
+   "location": "Antholz"
+  },
+  {
+   "start": "2027-01-15 14:15",
+   "tz": "Europe/Rome",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Antholz: naised 15 km individuaal",
+   "location": "Antholz"
+  },
+  {
+   "start": "2027-01-16 11:45",
+   "tz": "Europe/Rome",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Antholz: paarissegateade",
+   "location": "Antholz"
+  },
+  {
+   "start": "2027-01-16 14:30",
+   "tz": "Europe/Rome",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Antholz: segateatesõit",
+   "location": "Antholz"
+  },
+  {
+   "start": "2027-01-17 12:45",
+   "tz": "Europe/Rome",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Antholz: mehed 15 km ühisstart",
+   "location": "Antholz"
+  },
+  {
+   "start": "2027-01-17 15:00",
+   "tz": "Europe/Rome",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Antholz: naised 12,5 km ühisstart",
+   "location": "Antholz"
+  },
+  {
+   "start": "2027-01-21 16:30",
+   "tz": "Europe/Prague",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Nové Město: naised 7,5 km sprint",
+   "location": "Nové Město"
+  },
+  {
+   "start": "2027-01-22 16:30",
+   "tz": "Europe/Prague",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Nové Město: mehed 10 km sprint",
+   "location": "Nové Město"
+  },
+  {
+   "start": "2027-01-23 14:45",
+   "tz": "Europe/Prague",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Nové Město: naised 12,5 km ühisstart",
+   "location": "Nové Město"
+  },
+  {
+   "start": "2027-01-23 17:00",
+   "tz": "Europe/Prague",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Nové Město: mehed 4×7,5 km teatesõit",
+   "location": "Nové Město"
+  },
+  {
+   "start": "2027-01-24 14:35",
+   "tz": "Europe/Prague",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Nové Město: naised 4×6 km teatesõit",
+   "location": "Nové Město"
+  },
+  {
+   "start": "2027-01-24 17:10",
+   "tz": "Europe/Prague",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Nové Město: mehed 15 km ühisstart",
+   "location": "Nové Město"
+  },
+  {
+   "start": "2027-02-10 17:10",
+   "tz": "Europe/Tallinn",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MM Otepää: segateatesõit",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-12 17:30",
+   "tz": "Europe/Tallinn",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MM Otepää: mehed 10 km sprint",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-13 18:00",
+   "tz": "Europe/Tallinn",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MM Otepää: naised 7,5 km sprint",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-14 17:05",
+   "tz": "Europe/Tallinn",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MM Otepää: mehed 12,5 km jälitussõit",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-14 19:30",
+   "tz": "Europe/Tallinn",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MM Otepää: naised 10 km jälitussõit",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-16 18:10",
+   "tz": "Europe/Tallinn",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MM Otepää: paarissegateade",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-17 18:10",
+   "tz": "Europe/Tallinn",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MM Otepää: mehed 20 km individuaal",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-18 18:10",
+   "tz": "Europe/Tallinn",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MM Otepää: naised 15 km individuaal",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-19 18:30",
+   "tz": "Europe/Tallinn",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MM Otepää: mehed 4×7,5 km teatesõit",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-20 18:30",
+   "tz": "Europe/Tallinn",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MM Otepää: naised 4×6 km teatesõit",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-21 16:45",
+   "tz": "Europe/Tallinn",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MM Otepää: mehed 15 km ühisstart",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-02-21 19:10",
+   "tz": "Europe/Tallinn",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MM Otepää: naised 12,5 km ühisstart",
+   "location": "Otepää"
+  },
+  {
+   "start": "2027-03-04 14:45",
+   "tz": "Europe/Berlin",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Oberhof: mehed 10 km sprint",
+   "location": "Oberhof"
+  },
+  {
+   "start": "2027-03-05 14:10",
+   "tz": "Europe/Berlin",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Oberhof: naised 7,5 km sprint",
+   "location": "Oberhof"
+  },
+  {
+   "start": "2027-03-06 13:45",
+   "tz": "Europe/Berlin",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Oberhof: mehed 12,5 km jälitussõit",
+   "location": "Oberhof"
+  },
+  {
+   "start": "2027-03-06 16:00",
+   "tz": "Europe/Berlin",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Oberhof: naised 4×6 km teatesõit",
+   "location": "Oberhof"
+  },
+  {
+   "start": "2027-03-07 12:45",
+   "tz": "Europe/Berlin",
+   "minutes": 80,
+   "title": "🎯 Laskesuusatamise MK Oberhof: mehed 4×7,5 km teatesõit",
+   "location": "Oberhof"
+  },
+  {
+   "start": "2027-03-07 15:50",
+   "tz": "Europe/Berlin",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Oberhof: naised 10 km jälitussõit",
+   "location": "Oberhof"
+  },
+  {
+   "start": "2027-03-11 16:10",
+   "tz": "Europe/Stockholm",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Östersund: naised 15 km individuaal",
+   "location": "Östersund"
+  },
+  {
+   "start": "2027-03-12 16:10",
+   "tz": "Europe/Stockholm",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Östersund: mehed 20 km individuaal",
+   "location": "Östersund"
+  },
+  {
+   "start": "2027-03-13 14:30",
+   "tz": "Europe/Stockholm",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Östersund: paarissegateade",
+   "location": "Östersund"
+  },
+  {
+   "start": "2027-03-13 17:10",
+   "tz": "Europe/Stockholm",
+   "minutes": 75,
+   "title": "🎯 Laskesuusatamise MK Östersund: segateatesõit",
+   "location": "Östersund"
+  },
+  {
+   "start": "2027-03-14 14:30",
+   "tz": "Europe/Stockholm",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Östersund: naised 12,5 km ühisstart",
+   "location": "Östersund"
+  },
+  {
+   "start": "2027-03-14 17:10",
+   "tz": "Europe/Stockholm",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Östersund: mehed 15 km ühisstart",
+   "location": "Östersund"
+  },
+  {
+   "start": "2027-03-18 16:30",
+   "tz": "Europe/Oslo",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Oslo: mehed 10 km sprint",
+   "location": "Oslo"
+  },
+  {
+   "start": "2027-03-19 16:30",
+   "tz": "Europe/Oslo",
+   "minutes": 50,
+   "title": "🎯 Laskesuusatamise MK Oslo: naised 7,5 km sprint",
+   "location": "Oslo"
+  },
+  {
+   "start": "2027-03-20 14:45",
+   "tz": "Europe/Oslo",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Oslo: mehed 12,5 km jälitussõit",
+   "location": "Oslo"
+  },
+  {
+   "start": "2027-03-20 17:00",
+   "tz": "Europe/Oslo",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Oslo: naised 10 km jälitussõit",
+   "location": "Oslo"
+  },
+  {
+   "start": "2027-03-21 13:30",
+   "tz": "Europe/Oslo",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Oslo: mehed 15 km ühisstart",
+   "location": "Oslo"
+  },
+  {
+   "start": "2027-03-21 16:00",
+   "tz": "Europe/Oslo",
+   "minutes": 45,
+   "title": "🎯 Laskesuusatamise MK Oslo: naised 12,5 km ühisstart",
+   "location": "Oslo"
+  }
+ ]
+}

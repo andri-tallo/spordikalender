@@ -1,0 +1,813 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//andri-tallo//spordikalender//ET
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spordikalender
+X-WR-TIMEZONE:Europe/Tallinn
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:korvpall-9d6152d9c80aa48b@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🏀 Eesti – Prantsusmaa (MM-valiksari)
+LOCATION:Unibet Arena\, Tallinn
+DESCRIPTION:Kellaaeg täpsustamisel\nAllikas: FIBA MM-2027 Euroopa valiksar
+ ja II ring\, alagrupp L (fiba.basketball)
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-beff4f84568d3c5e@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261126T151500Z
+DTEND:20261126T163000Z
+SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: mehed 20 km individuaal
+LOCATION:Kontiolahti
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-4bc89e0deb7fc884@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261127T151500Z
+DTEND:20261127T163000Z
+SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: naised 15 km individuaal
+LOCATION:Kontiolahti
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-60402274c06afa24@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261128T121000Z
+DTEND:20261128T130000Z
+SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: paarissegateade
+LOCATION:Kontiolahti
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-f9e7d46a7ff744cc@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261128T141500Z
+DTEND:20261128T153000Z
+SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: segateatesõit
+LOCATION:Kontiolahti
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-c2c7bb01257eb71b@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261129T120000Z
+DTEND:20261129T125000Z
+SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: mehed 10 km sprint
+LOCATION:Kontiolahti
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-a9c37d70063b798f@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261129T155500Z
+DTEND:20261129T164500Z
+SUMMARY:🎯 Laskesuusatamise MK Kontiolahti: naised 7\,5 km sprint
+LOCATION:Kontiolahti
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-6392080a1364b23f@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261204T102500Z
+DTEND:20261204T111500Z
+SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: naised 7\,5 km sprint
+LOCATION:Hochfilzen
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-d29aaadd87cd5dff@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261204T131500Z
+DTEND:20261204T140500Z
+SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: mehed 10 km sprint
+LOCATION:Hochfilzen
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-d6efbe729272820b@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261205T111500Z
+DTEND:20261205T120000Z
+SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: naised 10 km jälitussõit
+LOCATION:Hochfilzen
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-84414e58297597a3@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261205T133000Z
+DTEND:20261205T141500Z
+SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: mehed 12\,5 km jälitussõit
+LOCATION:Hochfilzen
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-01966466eccce8fa@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261206T103000Z
+DTEND:20261206T115000Z
+SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: naised 4×6 km teatesõit
+LOCATION:Hochfilzen
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-177ed53152e5115f@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261206T131500Z
+DTEND:20261206T143500Z
+SUMMARY:🎯 Laskesuusatamise MK Hochfilzen: mehed 4×7\,5 km teatesõit
+LOCATION:Hochfilzen
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-3fe9f4ca88f264ac@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261210T131500Z
+DTEND:20261210T140500Z
+SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 7\,5 km sprint
+LOCATION:Le Grand-Bornand
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-4f50754cacdac2ea@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261211T131500Z
+DTEND:20261211T140500Z
+SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 10 km sprint
+LOCATION:Le Grand-Bornand
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-7e0804a1960b9fd6@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261212T111500Z
+DTEND:20261212T120000Z
+SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 10 km jälitussõ
+ it
+LOCATION:Le Grand-Bornand
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-4b4898c3a049f9c6@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261212T134500Z
+DTEND:20261212T143000Z
+SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 12\,5 km jälituss
+ õit
+LOCATION:Le Grand-Bornand
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-a4d50eeaa513a4b1@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261213T111500Z
+DTEND:20261213T120000Z
+SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: naised 12\,5 km ühissta
+ rt
+LOCATION:Le Grand-Bornand
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-bf04dde252fb0726@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261213T134500Z
+DTEND:20261213T143000Z
+SUMMARY:🎯 Laskesuusatamise MK Le Grand-Bornand: mehed 15 km ühisstart
+LOCATION:Le Grand-Bornand
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-919dd780f4509f51@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270102T102500Z
+DTEND:20270102T111500Z
+SUMMARY:🎯 Laskesuusatamise MK Pokljuka: mehed 10 km sprint
+LOCATION:Pokljuka
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-f30683a01484fb6a@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270102T131000Z
+DTEND:20270102T140000Z
+SUMMARY:🎯 Laskesuusatamise MK Pokljuka: naised 7\,5 km sprint
+LOCATION:Pokljuka
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-5ecf057180056ba6@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270103T103500Z
+DTEND:20270103T115500Z
+SUMMARY:🎯 Laskesuusatamise MK Pokljuka: mehed 4×7\,5 km teatesõit
+LOCATION:Pokljuka
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-951c5551a7432392@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270103T131500Z
+DTEND:20270103T143500Z
+SUMMARY:🎯 Laskesuusatamise MK Pokljuka: naised 4×6 km teatesõit
+LOCATION:Pokljuka
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-90dcaa1d9c92c22a@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270106T131500Z
+DTEND:20270106T143500Z
+SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: naised 4×6 km teatesõit
+LOCATION:Ruhpolding
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-6b31983b8c4d9a04@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270107T131500Z
+DTEND:20270107T143500Z
+SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: mehed 4×7\,5 km teatesõit
+LOCATION:Ruhpolding
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-007fdc292e5aac0f@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270108T131500Z
+DTEND:20270108T140500Z
+SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: naised 7\,5 km sprint
+LOCATION:Ruhpolding
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-ff70794f630d3d8c@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270109T110000Z
+DTEND:20270109T115000Z
+SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: mehed 10 km sprint
+LOCATION:Ruhpolding
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-bc55c6f51c5e1ec5@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270110T110000Z
+DTEND:20270110T114500Z
+SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: naised 10 km jälitussõit
+LOCATION:Ruhpolding
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-34dcbf255faad3c9@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270110T134500Z
+DTEND:20270110T143000Z
+SUMMARY:🎯 Laskesuusatamise MK Ruhpolding: mehed 12\,5 km jälitussõit
+LOCATION:Ruhpolding
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-74ecefb7498229d2@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270114T131500Z
+DTEND:20270114T143000Z
+SUMMARY:🎯 Laskesuusatamise MK Antholz: mehed 20 km individuaal
+LOCATION:Antholz
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-af8687889ed9412a@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270115T131500Z
+DTEND:20270115T143000Z
+SUMMARY:🎯 Laskesuusatamise MK Antholz: naised 15 km individuaal
+LOCATION:Antholz
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-5138c73b8564d5d8@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270116T104500Z
+DTEND:20270116T113500Z
+SUMMARY:🎯 Laskesuusatamise MK Antholz: paarissegateade
+LOCATION:Antholz
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-222f26f93c5a11c7@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270116T133000Z
+DTEND:20270116T144500Z
+SUMMARY:🎯 Laskesuusatamise MK Antholz: segateatesõit
+LOCATION:Antholz
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-d47216ccbf9f3433@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270117T114500Z
+DTEND:20270117T123000Z
+SUMMARY:🎯 Laskesuusatamise MK Antholz: mehed 15 km ühisstart
+LOCATION:Antholz
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-fc0e58936501bcf6@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270117T140000Z
+DTEND:20270117T144500Z
+SUMMARY:🎯 Laskesuusatamise MK Antholz: naised 12\,5 km ühisstart
+LOCATION:Antholz
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-dd5f2b7c41572aef@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270121T153000Z
+DTEND:20270121T162000Z
+SUMMARY:🎯 Laskesuusatamise MK Nové Město: naised 7\,5 km sprint
+LOCATION:Nové Město
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-0c2a50c7da650cb1@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270122T153000Z
+DTEND:20270122T162000Z
+SUMMARY:🎯 Laskesuusatamise MK Nové Město: mehed 10 km sprint
+LOCATION:Nové Město
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-7d6d132e26dbbab6@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270123T134500Z
+DTEND:20270123T143000Z
+SUMMARY:🎯 Laskesuusatamise MK Nové Město: naised 12\,5 km ühisstart
+LOCATION:Nové Město
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-3e635fd368424a2f@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270123T160000Z
+DTEND:20270123T172000Z
+SUMMARY:🎯 Laskesuusatamise MK Nové Město: mehed 4×7\,5 km teatesõit
+LOCATION:Nové Město
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-fca000e8a7e4ca49@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270124T133500Z
+DTEND:20270124T145500Z
+SUMMARY:🎯 Laskesuusatamise MK Nové Město: naised 4×6 km teatesõit
+LOCATION:Nové Město
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-cb1f1b0efd8ca2dd@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270124T161000Z
+DTEND:20270124T165500Z
+SUMMARY:🎯 Laskesuusatamise MK Nové Město: mehed 15 km ühisstart
+LOCATION:Nové Město
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-fce026a117969797@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270210T151000Z
+DTEND:20270210T162500Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: segateatesõit
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-4296d18cec7fe4be@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270212T153000Z
+DTEND:20270212T162000Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 10 km sprint
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-b10b895fb788c462@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270213T160000Z
+DTEND:20270213T165000Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 7\,5 km sprint
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-73e5118d06d96ea7@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270214T150500Z
+DTEND:20270214T155000Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 12\,5 km jälitussõit
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-63113ee006aafc49@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270214T173000Z
+DTEND:20270214T181500Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 10 km jälitussõit
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-ec6606cdc939e8d7@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270216T161000Z
+DTEND:20270216T170000Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: paarissegateade
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-ab9d5b343cee8002@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270217T161000Z
+DTEND:20270217T172500Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 20 km individuaal
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-4f0d5e90ec22c731@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270218T161000Z
+DTEND:20270218T172500Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 15 km individuaal
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-bfada06088577ed1@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270219T163000Z
+DTEND:20270219T175000Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 4×7\,5 km teatesõit
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-8927225ce63ff71f@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270220T163000Z
+DTEND:20270220T175000Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 4×6 km teatesõit
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-ebae4f4246dc5ca1@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270221T144500Z
+DTEND:20270221T153000Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: mehed 15 km ühisstart
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-fd88ecec4b2fbb54@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270221T171000Z
+DTEND:20270221T175500Z
+SUMMARY:🎯 Laskesuusatamise MM Otepää: naised 12\,5 km ühisstart
+LOCATION:Otepää
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-f49a00ba94765f1c@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270304T134500Z
+DTEND:20270304T143500Z
+SUMMARY:🎯 Laskesuusatamise MK Oberhof: mehed 10 km sprint
+LOCATION:Oberhof
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-c43775c0d8ad6444@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270305T131000Z
+DTEND:20270305T140000Z
+SUMMARY:🎯 Laskesuusatamise MK Oberhof: naised 7\,5 km sprint
+LOCATION:Oberhof
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-fe5b5415df13f3a1@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270306T124500Z
+DTEND:20270306T133000Z
+SUMMARY:🎯 Laskesuusatamise MK Oberhof: mehed 12\,5 km jälitussõit
+LOCATION:Oberhof
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-bfe2313935e85d05@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270306T150000Z
+DTEND:20270306T162000Z
+SUMMARY:🎯 Laskesuusatamise MK Oberhof: naised 4×6 km teatesõit
+LOCATION:Oberhof
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-090f5e77c9b775fc@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270307T114500Z
+DTEND:20270307T130500Z
+SUMMARY:🎯 Laskesuusatamise MK Oberhof: mehed 4×7\,5 km teatesõit
+LOCATION:Oberhof
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-98a4254bc47bb200@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270307T145000Z
+DTEND:20270307T153500Z
+SUMMARY:🎯 Laskesuusatamise MK Oberhof: naised 10 km jälitussõit
+LOCATION:Oberhof
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-7349e224c8ad2d3a@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270311T151000Z
+DTEND:20270311T162500Z
+SUMMARY:🎯 Laskesuusatamise MK Östersund: naised 15 km individuaal
+LOCATION:Östersund
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-f330edc779d6eb3b@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270312T151000Z
+DTEND:20270312T162500Z
+SUMMARY:🎯 Laskesuusatamise MK Östersund: mehed 20 km individuaal
+LOCATION:Östersund
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-9cedb147213e8420@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270313T133000Z
+DTEND:20270313T142000Z
+SUMMARY:🎯 Laskesuusatamise MK Östersund: paarissegateade
+LOCATION:Östersund
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-3701836a96d3c5ba@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270313T161000Z
+DTEND:20270313T172500Z
+SUMMARY:🎯 Laskesuusatamise MK Östersund: segateatesõit
+LOCATION:Östersund
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-00a4eaf23ac88112@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270314T133000Z
+DTEND:20270314T141500Z
+SUMMARY:🎯 Laskesuusatamise MK Östersund: naised 12\,5 km ühisstart
+LOCATION:Östersund
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-b08c6ac5bdcf6df3@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270314T161000Z
+DTEND:20270314T165500Z
+SUMMARY:🎯 Laskesuusatamise MK Östersund: mehed 15 km ühisstart
+LOCATION:Östersund
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-b7230f8e9e2a333b@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270318T153000Z
+DTEND:20270318T162000Z
+SUMMARY:🎯 Laskesuusatamise MK Oslo: mehed 10 km sprint
+LOCATION:Oslo
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-bb48220ad87a3e48@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270319T153000Z
+DTEND:20270319T162000Z
+SUMMARY:🎯 Laskesuusatamise MK Oslo: naised 7\,5 km sprint
+LOCATION:Oslo
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-19835c77f5f80f26@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270320T134500Z
+DTEND:20270320T143000Z
+SUMMARY:🎯 Laskesuusatamise MK Oslo: mehed 12\,5 km jälitussõit
+LOCATION:Oslo
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-989668b6174e68cd@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270320T160000Z
+DTEND:20270320T164500Z
+SUMMARY:🎯 Laskesuusatamise MK Oslo: naised 10 km jälitussõit
+LOCATION:Oslo
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-5a0f82e3541e30ef@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270321T123000Z
+DTEND:20270321T131500Z
+SUMMARY:🎯 Laskesuusatamise MK Oslo: mehed 15 km ühisstart
+LOCATION:Oslo
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:laskesuusatamine-af4d03037e85bc3e@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270321T150000Z
+DTEND:20270321T154500Z
+SUMMARY:🎯 Laskesuusatamise MK Oslo: naised 12\,5 km ühisstart
+LOCATION:Oslo
+DESCRIPTION:Allikas: Korraldajad (Kontiolahti\, Otepää)\, proxcskiing.com
+ \, snow-online.com\, etusuora.com
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-0ba062c970d7580a@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:🏐 Barrus Võru VK – Ezerzeme/DU/Homelike (Balti liiga)
+LOCATION:Võru Spordikeskus
+DESCRIPTION:Tulemus 3:1\nAllikas: Balti liiga: bvl-web.dataproject.com (Com
+ petitionMatches.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-f95ff0766ee8af4e@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:🏐 Robežsardze/RSU – Barrus Võru VK (Balti liiga)
+LOCATION:Rimi Olympic Centre\, Riia
+DESCRIPTION:Tulemus 3:1\nAllikas: Balti liiga: bvl-web.dataproject.com (Com
+ petitionMatches.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-eeff3bb4023d39b3@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:🏐 Elga-Grafaite S-Sportas – Barrus Võru VK (Balti liiga)
+LOCATION:Dubysa spordikeskus\, Šiauliai
+DESCRIPTION:Tulemus 3:2\nAllikas: Balti liiga: bvl-web.dataproject.com (Com
+ petitionMatches.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-eadd8d5f93f2e94c@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261104T170000Z
+DTEND:20261104T190000Z
+SUMMARY:🏐 Barrus Võru VK – BIGBANK Tartu (Balti liiga)
+LOCATION:Võru Spordikeskus
+DESCRIPTION:Tulemus 0:3\nAllikas: Balti liiga: bvl-web.dataproject.com (Com
+ petitionMatches.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-00376dd651c232a3@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:🏐 Barrus Võru VK – Jēkabpils Lūši (Balti liiga)
+LOCATION:Võru Spordikeskus
+DESCRIPTION:Tulemus 3:0\nAllikas: Balti liiga: bvl-web.dataproject.com (Com
+ petitionMatches.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-9faa78562e83c50a@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
+SUMMARY:🏐 Audentes/Solarstone – Barrus Võru VK (Balti liiga)
+LOCATION:Audentese spordihall\, Tallinn
+DESCRIPTION:Allikas: Balti liiga: bvl-web.dataproject.com (CompetitionMatch
+ es.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-3e50b7dd6a29a370@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261211T160000Z
+DTEND:20261211T180000Z
+SUMMARY:🏐 Selver x TalTech – Barrus Võru VK (Balti liiga)
+LOCATION:TalTechi spordihall\, Tallinn
+DESCRIPTION:Allikas: Balti liiga: bvl-web.dataproject.com (CompetitionMatch
+ es.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-0424bb78b0b88e84@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20261220T150000Z
+DTEND:20261220T170000Z
+SUMMARY:🏐 Barrus Võru VK – Pärnu VK (Balti liiga)
+LOCATION:Võru Spordikeskus
+DESCRIPTION:Allikas: Balti liiga: bvl-web.dataproject.com (CompetitionMatch
+ es.aspx?ID=29)
+END:VEVENT
+BEGIN:VEVENT
+UID:vorkpall-0e49ce36bc001a2e@spordikalender
+DTSTAMP:20261126T081106Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:🏐 Pärnu VK – Barrus Võru VK (Balti liiga)
+LOCATION:Pärnu Spordihall
+DESCRIPTION:Allikas: Balti liiga: bvl-web.dataproject.com (CompetitionMatch
+ es.aspx?ID=29)
+END:VEVENT
+END:VCALENDAR

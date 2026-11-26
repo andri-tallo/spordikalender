@@ -1,0 +1,15 @@
+{
+ "name": "Võrkpall: Barrus Võru VK ja Eesti meeste koondis",
+ "source": "Balti liiga: bvl-web.dataproject.com (CompetitionMatches.aspx?ID=29)",
+ "events": [
+  {"start": "2026-10-17 17:00", "tz": "Europe/Tallinn", "minutes": 120, "title": "🏐 Barrus Võru VK – Ezerzeme/DU/Homelike (Balti liiga)", "location": "Võru Spordikeskus", "note": "Tulemus 3:1"},
+  {"start": "2026-10-24 19:00", "tz": "Europe/Riga", "minutes": 120, "title": "🏐 Robežsardze/RSU – Barrus Võru VK (Balti liiga)", "location": "Rimi Olympic Centre, Riia", "note": "Tulemus 3:1"},
+  {"start": "2026-10-25 17:00", "tz": "Europe/Vilnius", "minutes": 120, "title": "🏐 Elga-Grafaite S-Sportas – Barrus Võru VK (Balti liiga)", "location": "Dubysa spordikeskus, Šiauliai", "note": "Tulemus 3:2"},
+  {"start": "2026-11-04 19:00", "tz": "Europe/Tallinn", "minutes": 120, "title": "🏐 Barrus Võru VK – BIGBANK Tartu (Balti liiga)", "location": "Võru Spordikeskus", "note": "Tulemus 0:3"},
+  {"start": "2026-11-21 17:00", "tz": "Europe/Tallinn", "minutes": 120, "title": "🏐 Barrus Võru VK – Jēkabpils Lūši (Balti liiga)", "location": "Võru Spordikeskus", "note": "Tulemus 3:0"},
+  {"start": "2026-11-27 19:00", "tz": "Europe/Tallinn", "minutes": 120, "title": "🏐 Audentes/Solarstone – Barrus Võru VK (Balti liiga)", "location": "Audentese spordihall, Tallinn"},
+  {"start": "2026-12-11 18:00", "tz": "Europe/Tallinn", "minutes": 120, "title": "🏐 Selver x TalTech – Barrus Võru VK (Balti liiga)", "location": "TalTechi spordihall, Tallinn"},
+  {"start": "2026-12-20 17:00", "tz": "Europe/Tallinn", "minutes": 120, "title": "🏐 Barrus Võru VK – Pärnu VK (Balti liiga)", "location": "Võru Spordikeskus"},
+  {"start": "2027-02-06 17:00", "tz": "Europe/Tallinn", "minutes": 120, "title": "🏐 Pärnu VK – Barrus Võru VK (Balti liiga)", "location": "Pärnu Spordihall"}
+ ]
+}
