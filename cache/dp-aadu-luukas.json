@@ -1,1 +1,35 @@
-[]
+[
+[
+"BEGIN:VEVENT",
+"UID:dp-aadu-luukas-b45eb72f61902686@spordikalender",
+"DTSTAMP:20261126T082241Z",
+"DTSTART:20261114T150000Z",
+"DTEND:20261114T170000Z",
+"SUMMARY:🏐 Barrus Võru VK – Selver xTalTech (Aadu Luukase karikas)",
+"LOCATION:Võru Spordihall",
+"DESCRIPTION:Tulemus 3:1\\nAllikas: https://evf-web.dataproject.com/CompetitionMatches.aspx?ID=100",
+"END:VEVENT"
+],
+[
+"BEGIN:VEVENT",
+"UID:dp-aadu-luukas-3b19e65ba99a169c@spordikalender",
+"DTSTAMP:20261126T082241Z",
+"DTSTART:20261126T170000Z",
+"DTEND:20261126T190000Z",
+"SUMMARY:🏐 Barrus Võru VK – BIGBANK Tartu (Aadu Luukase karikas)",
+"LOCATION:Võru Spordihall",
+"DESCRIPTION:Allikas: https://evf-web.dataproject.com/CompetitionMatches.aspx?ID=100",
+"END:VEVENT"
+],
+[
+"BEGIN:VEVENT",
+"UID:dp-aadu-luukas-7a37ee089ac9e67d@spordikalender",
+"DTSTAMP:20261126T082241Z",
+"DTSTART:20261203T170000Z",
+"DTEND:20261203T190000Z",
+"SUMMARY:🏐 BIGBANK Tartu – Barrus Võru VK (Aadu Luukase karikas)",
+"LOCATION:Tartu Ülikooli SH Ilmar Kullami nimeline peaväljak",
+"DESCRIPTION:Allikas: https://evf-web.dataproject.com/CompetitionMatches.aspx?ID=100",
+"END:VEVENT"
+]
+]

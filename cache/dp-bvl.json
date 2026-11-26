@@ -2,7 +2,7 @@
 [
 "BEGIN:VEVENT",
 "UID:dp-bvl-97d7e4a2c2014068@spordikalender",
-"DTSTAMP:20261126T082037Z",
+"DTSTAMP:20261126T082241Z",
 "DTSTART:20261017T140000Z",
 "DTEND:20261017T160000Z",
 "SUMMARY:🏐 Barrus Võru VK – Ezerzeme / DU / Homelike (Balti liiga)",
@@ -13,7 +13,7 @@
 [
 "BEGIN:VEVENT",
 "UID:dp-bvl-d2da36b618e3b909@spordikalender",
-"DTSTAMP:20261126T082037Z",
+"DTSTAMP:20261126T082241Z",
 "DTSTART:20261024T160000Z",
 "DTEND:20261024T180000Z",
 "SUMMARY:🏐 Robežsardze / RSU – Barrus Võru VK (Balti liiga)",
@@ -24,7 +24,7 @@
 [
 "BEGIN:VEVENT",
 "UID:dp-bvl-92a9ee15c8f356e3@spordikalender",
-"DTSTAMP:20261126T082037Z",
+"DTSTAMP:20261126T082241Z",
 "DTSTART:20261025T150000Z",
 "DTEND:20261025T170000Z",
 "SUMMARY:🏐 Elga-Grafaite S-Sportas Šiauliai – Barrus Võru VK (Balti liiga)",
@@ -35,7 +35,7 @@
 [
 "BEGIN:VEVENT",
 "UID:dp-bvl-ed4871b8c2cb445f@spordikalender",
-"DTSTAMP:20261126T082037Z",
+"DTSTAMP:20261126T082241Z",
 "DTSTART:20261104T170000Z",
 "DTEND:20261104T190000Z",
 "SUMMARY:🏐 Barrus Võru VK – BIGBANK Tartu (Balti liiga)",
@@ -45,8 +45,19 @@
 ],
 [
 "BEGIN:VEVENT",
+"UID:dp-bvl-5deaebfd6fad7c61@spordikalender",
+"DTSTAMP:20261126T082241Z",
+"DTSTART:20261121T150000Z",
+"DTEND:20261121T170000Z",
+"SUMMARY:🏐 Barrus Võru VK – Jēkabpils Lūši (Balti liiga)",
+"LOCATION:Võru Spordikeskus",
+"DESCRIPTION:Tulemus 3:0\\nAllikas: https://bvl-web.dataproject.com/CompetitionMatches.aspx?ID=29",
+"END:VEVENT"
+],
+[
+"BEGIN:VEVENT",
 "UID:dp-bvl-2d0ce8ff98e3b5c0@spordikalender",
-"DTSTAMP:20261126T082037Z",
+"DTSTAMP:20261126T082241Z",
 "DTSTART:20261127T170000Z",
 "DTEND:20261127T190000Z",
 "SUMMARY:🏐 Audentes/Solarstone – Barrus Võru VK (Balti liiga)",
@@ -56,8 +67,30 @@
 ],
 [
 "BEGIN:VEVENT",
+"UID:dp-bvl-6ad25111d2592940@spordikalender",
+"DTSTAMP:20261126T082241Z",
+"DTSTART:20261211T160000Z",
+"DTEND:20261211T180000Z",
+"SUMMARY:🏐 Selver x TalTech – Barrus Võru VK (Balti liiga)",
+"LOCATION:TalTech Spordihall",
+"DESCRIPTION:Allikas: https://bvl-web.dataproject.com/CompetitionMatches.aspx?ID=29",
+"END:VEVENT"
+],
+[
+"BEGIN:VEVENT",
+"UID:dp-bvl-a95632cd416d86e5@spordikalender",
+"DTSTAMP:20261126T082241Z",
+"DTSTART:20261220T150000Z",
+"DTEND:20261220T170000Z",
+"SUMMARY:🏐 Barrus Võru VK – PÄRNU Võrkpalliklubi (Balti liiga)",
+"LOCATION:Võru Spordikeskus",
+"DESCRIPTION:Allikas: https://bvl-web.dataproject.com/CompetitionMatches.aspx?ID=29",
+"END:VEVENT"
+],
+[
+"BEGIN:VEVENT",
 "UID:dp-bvl-d2425185cb76022e@spordikalender",
-"DTSTAMP:20261126T082037Z",
+"DTSTAMP:20261126T082241Z",
 "DTSTART:20270206T150000Z",
 "DTEND:20270206T170000Z",
 "SUMMARY:🏐 PÄRNU Võrkpalliklubi – Barrus Võru VK (Balti liiga)",
