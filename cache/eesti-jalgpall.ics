@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//FOTMOB//FOTMOB 1.0//EN
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+VERSION:2.0
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:Estonia fixtures
+X-WR-CALNAME:Estonia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5210340\nFriendlies
+DTEND:20260327T180000Z
+DTSTAMP:20261126T081215Z
+DTSTART:20260327T160000Z
+LOCATION:Stade Amahoro\, Gasabo\, Kigali\, RWA
+SEQUENCE:0
+SUMMARY:🇰🇪 Kenya - 🇪🇪 Estonia  (5-6)
+TRANSP:TRANSPARENT
+UID:5210340-8261@fotmob.com
+URL:https://www.fotmob.com/match/5210340
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇰🇪 Kenya - 🇪🇪 Estonia starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:🇰🇪 Kenya - 🇪🇪 Estonia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5279688\nFriendlies
+DTEND:20260330T193000Z
+DTSTAMP:20261126T081215Z
+DTSTART:20260330T173000Z
+LOCATION:Stade Amahoro\, Gasabo\, Kigali\, RWA
+SEQUENCE:0
+SUMMARY:🇷🇼 Rwanda - 🇪🇪 Estonia  (2-0)
+TRANSP:TRANSPARENT
+UID:5279688-8261@fotmob.com
+URL:https://www.fotmob.com/match/5279688
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇷🇼 Rwanda - 🇪🇪 Estonia starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:🇷🇼 Rwanda - 🇪🇪 Estonia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5418302\nFriendlies
+DTEND:20260606T170000Z
+DTSTAMP:20261126T081215Z
+DTSTART:20260606T150000Z
+LOCATION:Pärnu Rannastaadion\, Ranna piuestee 2\, Pärnu\, EST
+SEQUENCE:0
+SUMMARY:🇪🇪 Estonia - 🇫🇴 Faroe Islands  (1-0)
+TRANSP:TRANSPARENT
+UID:5418302-8261@fotmob.com
+URL:https://www.fotmob.com/match/5418302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇪 Estonia - 🇫🇴 Faroe Islands starting in 15 minutes. Noti
+ fications can be turned off in calendar settings
+SUMMARY:🇪🇪 Estonia - 🇫🇴 Faroe Islands starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5754084\nFriendlies
+DTEND:20260609T180000Z
+DTSTAMP:20261126T081215Z
+DTSTART:20260609T160000Z
+LOCATION:A. Le Coq Arena\, Asula 4c\, Tallinn\, EST
+SEQUENCE:0
+SUMMARY:🇪🇪 Estonia - 🇱🇹 Lithuania  (1-0)
+TRANSP:TRANSPARENT
+UID:5754084-8261@fotmob.com
+URL:https://www.fotmob.com/match/5754084
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇪 Estonia - 🇱🇹 Lithuania starting in 15 minutes. Notifica
+ tions can be turned off in calendar settings
+SUMMARY:🇪🇪 Estonia - 🇱🇹 Lithuania starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5181950\nUEFA Nations League C Gr
+ p. 4
+DTEND:20260926T180000Z
+DTSTAMP:20261126T081215Z
+DTSTART:20260926T160000Z
+LOCATION:Laugardalsvöllur\, Reykjavegur\, Reykjavík\, ISL
+SEQUENCE:0
+SUMMARY:🇮🇸 Iceland - 🇪🇪 Estonia  (1-1)
+TRANSP:TRANSPARENT
+UID:5181950-8261@fotmob.com
+URL:https://www.fotmob.com/match/5181950
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇮🇸 Iceland - 🇪🇪 Estonia starting in 15 minutes. Notificati
+ ons can be turned off in calendar settings
+SUMMARY:🇮🇸 Iceland - 🇪🇪 Estonia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5181951\nUEFA Nations League C Gr
+ p. 4
+DTEND:20260929T204500Z
+DTSTAMP:20261126T081215Z
+DTSTART:20260929T184500Z
+LOCATION:Stadion Hristo Botev\, bul. Iztochen 10\, Plovdiv\, BUL
+SEQUENCE:0
+SUMMARY:🇧🇬 Bulgaria - 🇪🇪 Estonia  (0-0)
+TRANSP:TRANSPARENT
+UID:5181951-8261@fotmob.com
+URL:https://www.fotmob.com/match/5181951
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇬 Bulgaria - 🇪🇪 Estonia starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:🇧🇬 Bulgaria - 🇪🇪 Estonia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5181953\nUEFA Nations League C Gr
+ p. 4
+DTEND:20261003T180000Z
+DTSTAMP:20261126T081215Z
+DTSTART:20261003T160000Z
+LOCATION:A. Le Coq Arena\, Asula 4c\, Tallinn\, EST
+SEQUENCE:0
+SUMMARY:🇪🇪 Estonia - 🇱🇺 Luxembourg  (1-0)
+TRANSP:TRANSPARENT
+UID:5181953-8261@fotmob.com
+URL:https://www.fotmob.com/match/5181953
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇪 Estonia - 🇱🇺 Luxembourg starting in 15 minutes. Notific
+ ations can be turned off in calendar settings
+SUMMARY:🇪🇪 Estonia - 🇱🇺 Luxembourg starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5181955\nUEFA Nations League C Gr
+ p. 4
+DTEND:20261006T204500Z
+DTSTAMP:20261126T081215Z
+DTSTART:20261006T184500Z
+LOCATION:A. Le Coq Arena\, Asula 4c\, Tallinn\, EST
+SEQUENCE:0
+SUMMARY:🇪🇪 Estonia - 🇮🇸 Iceland  (0-0)
+TRANSP:TRANSPARENT
+UID:5181955-8261@fotmob.com
+URL:https://www.fotmob.com/match/5181955
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇪 Estonia - 🇮🇸 Iceland starting in 15 minutes. Notificati
+ ons can be turned off in calendar settings
+SUMMARY:🇪🇪 Estonia - 🇮🇸 Iceland starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5181958\nUEFA Nations League C Gr
+ p. 4
+DTEND:20261113T214500Z
+DTSTAMP:20261126T081215Z
+DTSTART:20261113T194500Z
+LOCATION:Stade de Luxembourg\, E25\, Lëtzebuerg (Luxembourg)\, LUX
+SEQUENCE:0
+SUMMARY:🇱🇺 Luxembourg - 🇪🇪 Estonia  (0-1)
+TRANSP:TRANSPARENT
+UID:5181958-8261@fotmob.com
+URL:https://www.fotmob.com/match/5181958
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇱🇺 Luxembourg - 🇪🇪 Estonia starting in 15 minutes. Notific
+ ations can be turned off in calendar settings
+SUMMARY:🇱🇺 Luxembourg - 🇪🇪 Estonia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/5181959\nUEFA Nations League C Gr
+ p. 4
+DTEND:20261116T190000Z
+DTSTAMP:20261126T081215Z
+DTSTART:20261116T170000Z
+LOCATION:A. Le Coq Arena\, Asula 4c\, Tallinn\, EST
+SEQUENCE:0
+SUMMARY:🇪🇪 Estonia - 🇧🇬 Bulgaria  (2-1)
+TRANSP:TRANSPARENT
+UID:5181959-8261@fotmob.com
+URL:https://www.fotmob.com/match/5181959
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇪 Estonia - 🇧🇬 Bulgaria starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:🇪🇪 Estonia - 🇧🇬 Bulgaria starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/6696071\nUEFA Nations League B Qu
+ alification
+DTEND:20270325T214500Z
+DTSTAMP:20261126T081215Z
+DTSTART:20270325T194500Z
+LOCATION:A Le Coq Arena
+SEQUENCE:0
+SUMMARY:🇪🇪 Estonia - 🇷🇴 Romania
+TRANSP:TRANSPARENT
+UID:6696071-8261@fotmob.com
+URL:https://www.fotmob.com/match/6696071
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇪 Estonia - 🇷🇴 Romania starting in 15 minutes. Notificati
+ ons can be turned off in calendar settings
+SUMMARY:🇪🇪 Estonia - 🇷🇴 Romania starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/6696075\nUEFA Nations League B Qu
+ alification
+DTEND:20270328T204500Z
+DTSTAMP:20261126T081215Z
+DTSTART:20270328T184500Z
+SEQUENCE:0
+SUMMARY:🇷🇴 Romania - 🇪🇪 Estonia
+TRANSP:TRANSPARENT
+UID:6696075-8261@fotmob.com
+URL:https://www.fotmob.com/match/6696075
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇷🇴 Romania - 🇪🇪 Estonia starting in 15 minutes. Notificati
+ ons can be turned off in calendar settings
+SUMMARY:🇷🇴 Romania - 🇪🇪 Estonia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
