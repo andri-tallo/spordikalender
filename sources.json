@@ -1,0 +1,21 @@
+{
+ "ics": [
+  {"id": "barca", "name": "FC Barcelona (kõik sarjad)", "prefix": "", "url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8634.ics"},
+  {"id": "eesti-jalgpall", "name": "Eesti jalgpallikoondis", "prefix": "⚽ ", "url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8261.ics"}
+ ],
+ "fiba": {
+  "name": "Eesti korvpallikoondis",
+  "comment": "FIBA mängu-ID-d (fiba.basketball/en/games/<id>). Uued mängud lisab iganädalane kontroll.",
+  "games": [
+   {"id": 127088, "competition": "MM-valiksari"},
+   {"id": 127090, "competition": "MM-valiksari"},
+   {"id": 127094, "competition": "MM-valiksari"},
+   {"id": 127095, "competition": "MM-valiksari"}
+  ]
+ },
+ "dataproject": [
+  {"id": "bvl", "host": "bvl-web.dataproject.com", "competition": 29, "team": "Barrus Võru VK", "label": "Balti liiga"},
+  {"id": "aadu-luukas", "host": "evf-web.dataproject.com", "competition": 100, "team": "Barrus Võru VK", "label": "Aadu Luukase karikas"},
+  {"id": "emv", "host": "evf-web.dataproject.com", "competition": 96, "team": "Barrus Võru VK", "label": "Eesti meistrivõistlused"}
+ ]
+}
